@@ -6,6 +6,8 @@ sidebar: true
 incomplete: true
 ---
 
+Testing is important to ensure that the program you write will work before uploading to the Ethereum mainnet, as it cannot be altered after that. 
+
 ## Testing tools and libraries {#testing-tools-and-libraries}
 
 **Waffle -** **_A framework for advanced smart contract development and testing (based on ethers.js)._**
